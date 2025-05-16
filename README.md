@@ -1,4 +1,5 @@
-# bun-react-tailwind-template
+# GONVERTER-WEB
+This project is related to [Gonverter](https://github.com/Alastair7/gonverter) and depends on it to work.
 
 To install dependencies:
 
@@ -11,11 +12,3 @@ To start a development server:
 ```bash
 bun dev
 ```
-
-To run for production:
-
-```bash
-bun start
-```
-
-This project was created using `bun init` in bun v1.2.10. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
